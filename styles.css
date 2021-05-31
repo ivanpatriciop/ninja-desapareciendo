@@ -1,0 +1,28 @@
+ * {
+     padding: 0;
+     margin: 0;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, Tahoma, Geneva, Verdana, sans-serif
+ }
+ 
+ div.container {
+     height: 600px;
+     width: 900px;
+     padding: 20px;
+     margin: 30px auto;
+     border: solid 1px;
+ }
+ 
+ img {
+     width: 200px;
+     height: 200px;
+     margin: 10px 10px 10px 10px;
+     display: inline-block;
+ }
+ 
+ #restore {
+     background-color: rgb(52, 160, 106);
+     color: white;
+     border-radius: 3px;
+     margin: 10px 10px 10px 10px;
+     padding: 10px 20px;
+ }
